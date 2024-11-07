@@ -1,4 +1,4 @@
-# Uplift: AI-Powered Self-Improvement Challenge Generator
+# <img src="UpliftIcon.png" alt="Uplift Icon" width="40" style="vertical-align: middle;"> Uplift: AI-Powered Self-Improvement Challenge Generator
 
 Uplift is a mobile app designed to help users take charge of their personal growth journey. By leveraging AI, Uplift generates personalized challenges based on users' roles and improvement areas, empowering them to develop new skills, habits, and achieve their goals.
 
