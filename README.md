@@ -13,5 +13,7 @@ Uplift is a mobile app designed to help users take charge of their personal grow
 - **Backend**: Supabase for database management  
 - **AI Integration**: Gemini API for challenge generation
 
+## Clone it here: (https://app.flutterflow.io/project/uplift-sccf45)
+
 ## Storyboard
 ![Storyboard](UpliftStoryboard.jpg)
