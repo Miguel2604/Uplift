@@ -14,4 +14,4 @@ Uplift is a mobile app designed to help users take charge of their personal grow
 - **AI Integration**: Gemini API for challenge generation
 
 ## Storyboard
-![Storyboard](UpliftStoryboard.png)
+![Storyboard](UpliftStoryboard.jpg)
